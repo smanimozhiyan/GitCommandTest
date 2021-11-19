@@ -1,3 +1,3 @@
 # GitCommandTest
 
-Git commit 1
+Git commit 2
